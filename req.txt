@@ -1,0 +1,58 @@
+build voting form:
+feilds of builing new voting:
+- voting title
+- voting description
+- voting area
+- voting type
+- select a candedates
+- select voting availablity : on/off
+- voting intervals: starting date - ending date
+- voting cover image
+- voting methods: multple checks / single checks
+- voting style: list / grid
+- voting results style: chart / numbers / names and numbers / all
+- voting timer: on / off
+- voting times: time intervals
+-- save
+-- save & publish
+-- close
+
+
+
+view voting results:
+view voting modle list: edit / delete / publish /unpublish
+
+add candedates form:
+- candedate name
+- candedate description
+- candedate photo
+- ssn candedate
+- birth of date 
+- candedate vision
+- candedate phone number
+
+
+view candedate model list:.0.
+edit 
+delete
+publish
+unpublish
+
+
+add voters forms:
+option one: import an excel file
+option two:
+- voter name 
+- voter photo
+- ssn
+- addres place
+- voting area 
+- birth place 
+- mother name 
+- restricted id no
+- restricted place 
+
+
+view voters list:
+- voter info: edit / delete / ban
+- export excel file 

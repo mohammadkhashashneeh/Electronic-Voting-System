@@ -1,0 +1,12 @@
+as admin 
+id:2022
+id no:12345
+
+as vofficer:
+id:2021
+id no:12345
+
+
+as voter:
+id:123456789
+id no:12345
